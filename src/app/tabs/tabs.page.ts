@@ -14,5 +14,5 @@ export class TabsPage implements OnInit {
   ngOnInit() {
     this.tabs.select('feed');
   }
-
+ 
 }

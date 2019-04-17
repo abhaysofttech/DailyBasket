@@ -1,6 +1,8 @@
 {
-  "name": "DailyBasket",
-  "integrations": {},
+  "name": "Daily Basket+",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "d8a30e79"
 }
